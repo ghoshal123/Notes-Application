@@ -1,0 +1,17 @@
+.card {
+    display: table;
+    grid-template-columns: 1fr;
+    gap: 25px;
+    float: left;
+    margin-right: 12px;
+    margin-bottom: 25px;
+    margin-left: 10px;
+    background-color: whitesmoke;
+    border: 2px solid black;
+  }
+
+  body { 
+  background-color: #a5b7b0
+  }
+
+  /* Lorem Ipsum is simply dummy text of the printing and typesetting industry.  */
